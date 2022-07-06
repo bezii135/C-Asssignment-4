@@ -1,0 +1,17 @@
+C:\Users\Bezawit\source\repos\cassignment4\bin\Debug\net6.0-windows\cassignment4.exe
+C:\Users\Bezawit\source\repos\cassignment4\bin\Debug\net6.0-windows\cassignment4.deps.json
+C:\Users\Bezawit\source\repos\cassignment4\bin\Debug\net6.0-windows\cassignment4.runtimeconfig.json
+C:\Users\Bezawit\source\repos\cassignment4\bin\Debug\net6.0-windows\cassignment4.dll
+C:\Users\Bezawit\source\repos\cassignment4\bin\Debug\net6.0-windows\cassignment4.pdb
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.csproj.AssemblyReference.cache
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.Form1.resources
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.csproj.GenerateResource.cache
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.AssemblyInfoInputs.cache
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.AssemblyInfo.cs
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.csproj.CoreCompileInputs.cache
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.dll
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\refint\cassignment4.dll
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.pdb
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\cassignment4.genruntimeconfig.cache
+C:\Users\Bezawit\source\repos\cassignment4\obj\Debug\net6.0-windows\ref\cassignment4.dll
